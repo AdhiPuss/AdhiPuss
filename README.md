@@ -12,10 +12,10 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AdhiPuss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/AdhiPuss/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/AdhiPuss/github-stats-transparent/output/generated/languages.svg)
 
 <!--| :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
