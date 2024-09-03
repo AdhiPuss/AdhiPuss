@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amanoerika_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanoerika_2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adhipuspo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhipuspo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adhi-puspo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhipuspo" height="30" width="40" /></a>
 <a href="https://instagram.com/puss_adhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puss_adhi" height="30" width="40" /></a>
-<a href="https://dribbble.com/adhipuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adhipuss" height="30" width="40" /></a>
+<a href="https://dribbble.com/PussKanaeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adhipuss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
