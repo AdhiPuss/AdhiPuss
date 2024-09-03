@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adhi Puspo</h1>
 <h3 align="center">A passionate ui designer and web developer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhipuss&label=Intruder%F0%9F%A7%90%E2%80%8E%E2%80%8E%E2%80%8E&color=ff0000&style=plastic" alt="adhipuss" /> </p>
+
 - 🔭 I’m an undergraduate student of Software Engineering on **Telkom University Purwokerto**
 
 - 🌱 I’m currently learning **React Native**
@@ -24,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhipuss&show_icons=true&theme=dark&title_color=fabc3f&text_color=e85c0d&bg_color=ffffff&locale=en&layout=compact" alt="adhipuss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhipuss&show_icons=true&theme=dark&title_color=fabc3f&text_color=e85c0d&bg_color=ffffff&locale=en" alt="adhipuss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhipuss&show_icons=true&theme=dark&title_color=fabc3f&text_color=e85c0d&bg_color=ffffff&cache_seconds=3000&locale=en" alt="adhipuss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhipuss&theme=highcontrast" alt="adhipuss" /></p>
