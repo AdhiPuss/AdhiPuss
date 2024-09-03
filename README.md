@@ -2,7 +2,6 @@
 <p align="left">A passionate ui designer and web developer from Indonesia</p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhipuss&label=Intruder%F0%9F%A7%90%E2%80%8E%E2%80%8E%E2%80%8E&color=ff0000&style=plastic" alt="adhipuss" /> </p>
-
 ---
 ## About me:
 
