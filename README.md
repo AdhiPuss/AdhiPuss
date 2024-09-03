@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhi Puspo</h1>
 <h3 align="center">A passionate ui designer and web developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhipuss&label=Intruder%F0%9F%A7%90%E2%80%8E%E2%80%8E%E2%80%8E&color=ff0000&style=plastic" alt="adhipuss" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhipuss&label=Intruder%F0%9F%A7%90%E2%80%8E%E2%80%8E%E2%80%8E&color=ff0000&style=plastic" alt="adhipuss" /> </p>-->
 
 - 🔭 I’m an undergraduate student of Software Engineering on **Telkom University Purwokerto**
 
